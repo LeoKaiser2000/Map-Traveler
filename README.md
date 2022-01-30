@@ -7,7 +7,7 @@ Unity map traveler for school
 </h3>
 
 <p align='center'>
-<img src='/ReadmeAssets/Acreenshot.png'/>
+<img src='/ReadmeAssets/Screenshot.png'/>
 </p>
 
 # Summary
